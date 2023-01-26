@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "chalk": "^5.1.2",
+    "cpu-stat": "^2.0.1",
+    "croxydb": "^0.0.7",
+    "database": "^0.0.2",
+    "discord.js": "^13.12.0",
+    "dotenv": "^16.0.3",
+    "generate-password": "^1.7.0",
+    "glob": "^8.0.3",
+    "graceful-fs": "^4.2.10",
+    "i": "^0.3.7",
+    "megadb": "^3.4.0",
+    "moment": "^2.29.4",
+    "moment-duration-format": "^2.3.2",
+    "mongodb": "^4.12.1",
+    "mongoose": "^6.7.3",
+    "ms": "^2.1.3",
+    "mysql": "^2.18.1",
+    "node-fetch": "^3.3.0",
+    "request": "^2.88.2",
+    "util": "^0.12.5"
+  }
+}
